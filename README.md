@@ -2,10 +2,6 @@
 
 In different electronic literature projects I often find myself needing to generate text out of a corpora of texts centered around a subject, style or time period.  Today we are going to build a simple and extendable Python script to allow us to make connections across a corpora of texts using the [`Markovify`](https://github.com/jsvine/markovify) package.
 
-### Methodology
-
-*TODO: Include quote about forming word pool here*
-
 ### Compiling our Corpora
 
 For this project I am interested in urban theory and psychogeography, which is the study of urban geography and its effect on the emotions and behaviors of individuals. 
